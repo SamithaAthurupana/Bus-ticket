@@ -1,3 +1,3 @@
 # Bus-ticket-booking-System
-#this-syste-is-not-complete-&-this-system-going-on-learnig-perpus
-#language-java
+This system is not completed, and everything is for educational purposes only.
+language : java
